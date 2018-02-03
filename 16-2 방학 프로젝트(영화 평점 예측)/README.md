@@ -5,13 +5,11 @@
 - 역할
 
   - pandas를 이용한 데이터 전처리
-  - 데이터 시각화
   - 랜덤 포레스트를 이용해 평점 예측
 
 - 기술 스택/방법론
 
   - Pandas
-  - Plotly
   - Scikit-learn
   - Feature Engineering
   - Random Forest
