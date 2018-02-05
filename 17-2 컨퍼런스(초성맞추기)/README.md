@@ -1,0 +1,13 @@
+- 목표
+  - 초성을 입력으로 받아, 초성에 맞는 문장을 출력하기
+- 역할
+  - 크롤링등을 통한 데이터 수집
+  - 모델 구현 및 학습
+- 기술 스택/방법론
+  - pandas
+  - tensorflow
+  - char-RNN
+- 결론 및 성과
+  - 거의 대부분 초성에 맞는 문장을 생성해낼 수 있었다.
+- 참조
+  - https://github.com/bluedisk/korean_char_rnn
